@@ -1,2 +1,4 @@
 name: Philipp Krüger
 markdown: kramdown
+
+theme: jekyll-theme-minimal
